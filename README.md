@@ -14,5 +14,3 @@
 * Técnico em Informática
 * Sempre aberto a novas tecnologias, foco na produtividade!
 
-![monteiroricardo github stats](https://github-readme-stats.vercel.app/api?username=monteiroricardo&show_icons=true&theme=react)
-
